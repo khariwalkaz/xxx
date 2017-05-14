@@ -14,7 +14,7 @@ $( document ).ready(function() {
             hideMethod: 'fadeOut',
             timeOut: 5000
         };
-        toastr.success('Checkout settings menu on left!', 'Welcome to BOTEX-VIET.COM!');
+        toastr.success('Checkout settings menu on left!', 'Welcome to BOTEXVIET.COM!');
     }, 1800);
     
     var flot2 = function () {
